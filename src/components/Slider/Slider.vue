@@ -91,36 +91,7 @@ export default {
       slides: 3,
     };
   },
-  // computed: {
-  //   sliderTransform() {
-  //     return `translateX(-${this.currentIndex * 100}%)`;
-  //   }
-  // },
   methods: {
-    // nextSlide() {
-    //   // Move the current slide to the end of the list
-    //   const slides = document.querySelectorAll(".slide");
-    //   console.log('slides', slides[0].firstElementChild)
-    //   const currentSlide = slides[this.currentIndex];
-    //   currentSlide.style.transition = "transform 0.5s ease";
-    //   currentSlide.style.transform = "translateX(-100%)";
-
-    // //   currentSlide.classList.remove('one')
-    // //   currentSlide.classList.add('three')
-
-
-
-
-    //   setTimeout(() => {
-    //     currentSlide.style.transition = "none";
-    //     currentSlide.style.transform = "translateX(0)";
-    //     currentSlide.parentNode.appendChild(currentSlide);
-
-    //     // Update the currentIndex
-    //     this.currentIndex = (this.currentIndex + 1) % this.slides;
-    //     console.log(this.currentIndex);
-    //   }, 500);
-    // },
     nextSlide() {
         const currentSlide = document.querySelector(`.slide.one`);
         currentSlide.style.transition = "transform 0.5s ease";
