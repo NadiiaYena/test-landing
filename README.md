@@ -1,29 +1,15 @@
-# vue-progect-test
+## vue-progect-test
 
-This template should help get you started developing with Vue 3 in Vite.
+The site can open here[https://nadiiayena.github.io/test-landing/]
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+#Elements has been creating by Vue
 
-## Customize configuration
+- Getting list of films by request and sorting elements list has been implemented.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Implemented a looped slider.
 
-## Project Setup
+- Form with validation fiels has been implemented.
 
-```sh
-npm install
-```
+- The elements have been adapted for mobile devices..
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
