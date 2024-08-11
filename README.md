@@ -1,6 +1,6 @@
 ## vue-progect-test
 
-The site can open <a href="[https://example.com](https://nadiiayena.github.io/test-landing/)" target="_blank">here</a>
+The site can open <a href="https://nadiiayena.github.io/test-landing/" target="_blank">here</a>
 
 
 #Elements has been creating by Vue
